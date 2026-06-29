@@ -3,7 +3,7 @@ Computed 1-day and 10-day VaRs at 95% and 99% confidence intervals for a diversi
 
 ## Portfolio Value
 
-![Portfolio Value]([20011729.png](https://raw.githubusercontent.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/refs/heads/main/Screenshot%202026-06-30%20011729.png))
+![Portfolio Value](https://raw.githubusercontent.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/refs/heads/main/Screenshot%202026-06-30%20011729.png))
 
 ## Return Distribution
 
