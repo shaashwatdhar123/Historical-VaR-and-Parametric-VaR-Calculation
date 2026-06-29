@@ -3,19 +3,19 @@ Computed 1-day and 10-day VaRs at 95% and 99% confidence intervals for a diversi
 
 ## Portfolio Value
 
-![Portfolio Value](https://raw.githubusercontent.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/refs/heads/main/Screenshot%202026-06-30%20011729.png))
+![Portfolio Value](https://github.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/blob/main/images/portfolio_value.png))
 
 ## Return Distribution
 
-![Return Distribution](https://raw.githubusercontent.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/refs/heads/main/Screenshot%202026-06-30%20011801.png)
+![Return Distribution](https://github.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/blob/main/images/return_distribution.png)
 
 ## Covariance Matrix
 
-![Covariance Matrix](https://raw.githubusercontent.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/refs/heads/main/Screenshot%202026-06-30%20011816.png)
+![Covariance Matrix](https://github.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/blob/main/images/var_covar_matrix.png)
 
 ## Rolling VaR
 
-![Rolling VaR](https://raw.githubusercontent.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/refs/heads/main/Screenshot%202026-06-30%20011843.png)
+![Rolling VaR](https://github.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/blob/main/images/rolling_30d_var.png)
 
 ## Standalone v/s Diversified chart
-![Standalone v/s Diversified chart](https://raw.githubusercontent.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/refs/heads/main/Screenshot%202026-06-30%20011837.png)
+![Standalone v/s Diversified chart](https://github.com/shaashwatdhar123/Historical-VaR-and-Parametric-VaR-Calculation/blob/main/images/standalone_vs_diversified.png)
